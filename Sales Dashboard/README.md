@@ -1,7 +1,7 @@
 # 📊 INSIGHT – Sales Dashboard Project with Power BI
 
 🚀 **View the interactive dashboard on Power BI Service**
-📁 File: `sales_dsahboard_project.pbix`
+📁 File: `sales_dashboard_project.pbix`
 
 ---
 
@@ -9,7 +9,7 @@
 
 **INSIGHT** is a sales analytics dashboard designed for both business executives and sales teams to monitor performance, identify key trends, and make data-driven decisions. Sales data often lives across different platforms and formats—this dashboard consolidates it all into one dynamic and user-friendly interface.
 
-The project uses transactional data from various sources to deliver insights on sales revenue, customer behavior, and product performance.
+The project uses transactional data from sources to deliver insights on sales revenue, customer behavior, and product performance.
 
 ---
 
@@ -39,7 +39,7 @@ This page gives a high-level snapshot for stakeholders, focused on performance m
 
 - 📈 Total Revenue & Total Orders
 - 🥇 Top Products by Sales & Profit
-- 🗓️ Monthly Sales Trends
+- 🗓️ Sales Trends
 - 🌍 Regional Sales Map
 - 📊 Category-wise breakdown
 
@@ -51,11 +51,10 @@ This page gives a high-level snapshot for stakeholders, focused on performance m
 
 Drill deeper into customer behavior, loyalty, and value:
 
-- 👤 Top Customers by Revenue
-- 🛒 Average Order Value per Customer
-- 🧠 Customer Segmentation (RFM or Value-based)
-- 📍 Region-wise customer distribution
-- 📆 Retention / repeat purchases over time
+- 👤 Customer Overview
+- 🧠 Customer Segmentation (RFM Analysis)
+- 📆 Order Volume Breakdown
+- 🚚 Delivery Insights
 
 > Ideal for marketing, CRM, and customer engagement strategies.
 
@@ -66,8 +65,7 @@ Drill deeper into customer behavior, loyalty, and value:
 - ✅ **Data Cleaning & Shaping** via Power Query
 - 📊 **DAX Measures** for KPIs like Profit Margin, Avg. Order Value
 - 🗺️ **Geospatial Mapping** for sales by location
-- 🎯 **Interactive Filters** with slicers (region, time, category)
-- 📌 **Drill-Through Navigation** from overview to detail
+- 🎯 **Interactive Filters** with slicers
 - 🧩 Clean UI/UX layout optimized for usability
 
 ---
