@@ -35,6 +35,7 @@ The project uses transactional data from sources to deliver insights on sales re
 
 ### 🧭 **Page 1: Executive & Sales Overview**
 
+![Page 1](images/page1.png)
 This page gives a high-level snapshot for stakeholders, focused on performance metrics such as:
 
 - 📈 Total Revenue & Total Orders
@@ -49,6 +50,7 @@ This page gives a high-level snapshot for stakeholders, focused on performance m
 
 ### 👥 **Page 2: Customer Analysis**
 
+![Page 2](images/page2.png)
 Drill deeper into customer behavior, loyalty, and value:
 
 - 👤 Customer Overview
